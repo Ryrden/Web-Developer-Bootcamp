@@ -1,7 +1,7 @@
 # Web-Developer-Bootcamp
  Curso de Web Developer presente na Udemy e oferecido pelo Professor Colt Steele
 
- conhecimentos que serão agregados com este curso:
+ conhecimentos agregados com este curso:
     
     -HTML5 ✓ 
     -CSS3

@@ -2,7 +2,7 @@ h1 {
     font-family: monospace;
     text-transform: uppercase;
     text-align: center;
-    font-weight: 100;
+    font-weight: 100; /* poderia ser Bold */
     font-size: 40px;
     letter-spacing: 20px;
     text-decoration: underline wavy plum;

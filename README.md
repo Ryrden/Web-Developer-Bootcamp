@@ -4,9 +4,9 @@
  conhecimentos agregados com este curso:
     
     -HTML5 ✓ 
-    -CSS3
-    -Flexbox
-    -Responsive Design
+    -CSS3 ✓
+    -Flexbox ✓
+    -Responsive Design ✓
     -JavaScript (all 2020 modern syntax, ES6, ES2018, etc.)
     -Asynchronous JavaScript - Promises, async/await, etc.
     -AJAX and single page apps

@@ -1,4 +1,4 @@
 # Museum of candy
 
-
-Edit later...
+## See how it was look
+![Captura_do_site](imgs/full-project.png)

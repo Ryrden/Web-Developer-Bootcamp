@@ -16,6 +16,10 @@ body {
 
 }
 
+.content {
+    margin-bottom: 100px;
+}
+
 #mainNavbar {
     size: 1.5rem;
     font-weight: 100;

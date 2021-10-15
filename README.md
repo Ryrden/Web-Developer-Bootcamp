@@ -7,10 +7,10 @@
     -CSS3 ✓
     -Flexbox ✓
     -Responsive Design ✓
+    -Bootstrap 4 and 5 (alpha) ✓
     -JavaScript (all 2020 modern syntax, ES6, ES2018, etc.)
     -Asynchronous JavaScript - Promises, async/await, etc.
     -AJAX and single page apps
-    -Bootstrap 4 and 5 (alpha)
     -SemanticUI
     -Bulma CSS Framework
     -DOM Manipulation

@@ -1,6 +1,6 @@
 // DEFINE YOUR FUNCTION BELOW:
-function isShortsWeather(temperature){
-    if (temperature <= 75)
+function isShortsWeather(temperature) {
+    if (temperature >= 75)
         return true
     return false
 }

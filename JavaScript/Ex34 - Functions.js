@@ -1,6 +1,4 @@
 // DEFINE YOUR FUNCTION BELOW:
-function isShortsWeather(temperature) {
-    if (temperature >= 75)
-        return true
-    return false
+function multiply(num1, num2) {
+    return num1 * num2;
 }

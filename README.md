@@ -9,11 +9,11 @@
     -Responsive Design ✓
     -Bootstrap 4 and 5 (alpha) ✓
     -JavaScript (all 2020 modern syntax, ES6, ES2018, etc.) ✓
+    -DOM Manipulation ✓
+    -Bulma CSS Framework ✓
     -Asynchronous JavaScript - Promises, async/await, etc.
     -AJAX and single page apps
     -SemanticUI
-    -Bulma CSS Framework
-    -DOM Manipulation
     -Unix(Command Line) Commands
     -NodeJS
     -NPM

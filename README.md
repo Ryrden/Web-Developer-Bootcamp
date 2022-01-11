@@ -11,14 +11,14 @@
     -JavaScript (all 2020 modern syntax, ES6, ES2018, etc.) ✓
     -DOM Manipulation ✓
     -Bulma CSS Framework ✓
-    -Asynchronous JavaScript - Promises, async/await, etc.
-    -AJAX and single page apps
-    -SemanticUI
-    -Unix(Command Line) Commands
-    -NodeJS
-    -NPM
-    -ExpressJS
-    -Templating
+    -Asynchronous JavaScript - Promises, async/await, etc. ✓
+    -AJAX and single page apps ✓
+    -SemanticUI ✓
+    -Unix(Command Line) Commands ✓
+    -NodeJS ✓
+    -NPM ✓
+    -ExpressJS ✓
+    -Templating ✓
     -REST
     -SQL vs. NoSQL databases
     -MongoDB

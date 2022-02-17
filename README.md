@@ -19,21 +19,21 @@
     -NPM ✓
     -ExpressJS ✓
     -Templating ✓
-    -REST
-    -SQL vs. NoSQL databases
-    -MongoDB
-    -Database Associations
-    -Schema Design
-    -Mongoose
-    -Authentication From Scratch
-    -Cookies & Sessions
-    -Authorization
-    -Common Security Issues - SQL Injection, XSS, etc.
-    -Developer Best Practices
-    -Deploying Apps
-    -Cloud Databases
-    -Image Upload and Storage
-    -Maps and Geocoding
+    -REST ✓
+    -SQL vs. NoSQL databases ✓
+    -MongoDB ✓
+    -Database Associations ✓
+    -Schema Design ✓
+    -Mongoose ✓
+    -Authentication From Scratch ✓
+    -Cookies & Sessions ✓
+    -Authorization ✓
+    -Common Security Issues - SQL Injection, XSS, etc. ✓
+    -Developer Best Practices ✓
+    -Deploying Apps ✓
+    -Cloud Databases ✓
+    -Image Upload and Storage ✓
+    -Maps and Geocoding ✓
 
 
 
